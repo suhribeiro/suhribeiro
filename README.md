@@ -4,7 +4,7 @@ Olá! Eu me chamo Suellen e moro em Belo Horizonte. Sou formada em Sistemas de i
 Possuo experiência com Python, SQL, AWS Cloud, Lambda functions, SageMaker, Git, Dremio,
 Power BI, Airflow, Análise de dados, Business Intelligence e Machine Learning. Eu gosto muito de aprender e resolver problemas, então por aqui você pode encontrar pesquisas e explorações em outras áreas da TI também! 
 
-Quando não estou codando, faço algumas(muitas!) outras coisas: faço carinho em gatinhos e doguinhos por aí, arrisco uns bordados, faço umas receitas veganas bem gostosas pros migos, pedalo pela cidade, tiro umas fotos e compro mais livros do que consigo ler! hehe
+Quando não estou codando, faço algumas(muitas!) outras coisas: faço carinho em gatinhos e doguinhos por aí, arrisco uns bordados, faço umas receitas veganas bem gostosas pros migos, pedalo pela cidade, tiro umas fotos, pratico yoga e compro mais livros do que consigo ler! hehe
 
 #### Contato
 - Email: suellenrimel@gmail.com
